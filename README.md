@@ -1,8 +1,9 @@
 # Sales-Insights
-Problem Statement : Sales director decides to invest in data analysis project and he would like to build power BI dashboard that can give him real time sales insights. 
+Problem Statement : Data analysis project to build power BI dashboard that can give real time sales insights. 
 
-Database has all sales transactions, customers, products and markets information. We will analyse this database.
+Undertook analysis of Database containing sales transactions, customer details, products and market information. 
 
-Plug mysql database with power BI. In power BI we will do data cleaning and ETL (Extract, transform , load). This process is also known as data munging or data wrangling. We will do currency normalization, handling invalid values etc.
+Used Power BI for data cleaning and wrangling (ETL-Extract, transform , load). This was followed by currency normalization, handling invalid values etc.
 
-Finally we will create the dashboard.
+Dashboard was created to provide sales insights such as Revenue Trend, top customers/markets for the required period.
+
